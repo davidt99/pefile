@@ -31,7 +31,7 @@ from builtins import str
 from builtins import zip
 
 __author__ = 'Ero Carrera'
-__version__ = '2017.6.5'
+__version__ = '2017.6.28'
 __contact__ = 'ero.carrera@gmail.com'
 
 import os
